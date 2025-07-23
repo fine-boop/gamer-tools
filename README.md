@@ -1,5 +1,5 @@
 # gamer-tools
-Just a collection of tools for gamers
+A collection of tools for gamers
 One of my first projects, made to understand python better.
 
 Currently featuring
