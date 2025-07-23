@@ -6,5 +6,5 @@ Currently featuring
 - Autoclicker
 - AFK Evader
 - Spam chats
-- Crash your pc (no idea why you would want to do this)
-- Remove all your files (also no clue why i added this)
+- Crash your pc 
+- Remove all your files
