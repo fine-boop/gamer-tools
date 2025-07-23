@@ -192,7 +192,7 @@ def crash_with_cmd():
 
 def welcomescreen():  
     os.system('clear')
-    print("************************* jcorp v0.11.1 main menu *****************************")
+    print("************************* t00ls v0.11.1 main menu *****************************")
     print("What do you want to do?")
     print("1. Autoclicker")
     print("2. AFK Evader")
