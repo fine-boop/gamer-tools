@@ -1,6 +1,6 @@
 # gamer-tools
 A collection of tools for gamers
-One of my first projects, made to understand python better.
+one of my first projects, made to understand python better.
 
 Currently featuring
 - Autoclicker
